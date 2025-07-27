@@ -125,6 +125,7 @@ The application follows a layered MVC/MVVM architecture:
 
 #### Performance Management (`src/core/`)
 - **PerformanceMonitor**: Real-time system performance monitoring
+- **PerformanceAnalyzer**: NEW - Advanced performance analysis with trend detection and smart alerts
 - **PerformanceConfigManager**: Performance-aware configuration management
 - **MemoryOptimizer**: Memory usage optimization and garbage collection
 - **UIUpdateOptimizer**: UI refresh rate optimization for smooth rendering
