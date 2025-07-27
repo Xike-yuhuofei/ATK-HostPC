@@ -47,6 +47,7 @@ if(BUILD_FULL)
         "src/core/adaptiveconfigmanager.cpp"
         "src/core/loadbalancer.cpp"
         "src/core/mlperformancepredictor.cpp"
+        "src/core/performanceanalyzer.cpp"
     )
 
     add_executable(GlueDispensePC
