@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icons/connect.png</file>
+        <file>icons/disconnect.png</file>
+        <file>icons/settings.png</file>
+        <file>icons/about.png</file>
+        <file>icons/exit.png</file>
+        <file>icons/open.png</file>
+        <file>icons/save.png</file>
+        <file>icons/alarm.png</file>
+        <file>icons/app.png</file>
+        <file>styles/default.qss</file>
+        <file>styles/modern.qss</file>
+    </qresource>
+</RCC> 

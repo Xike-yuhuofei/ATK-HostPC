@@ -1,0 +1,23 @@
+# Claude Code 项目配置文件
+# Claude Code Project Configuration
+
+# 语言设置
+PREFERRED_LANGUAGE=Chinese
+COMMUNICATION_LANGUAGE=zh-CN
+
+# 项目信息
+PROJECT_NAME=工业点胶设备上位机控制软件
+PROJECT_VERSION=2.0.0
+PROJECT_TYPE=Qt6_CPP_Industrial_Application
+
+# 用户偏好
+USER_PREFERENCE_LANGUAGE=Chinese
+DOCUMENTATION_LANGUAGE=Chinese
+CODE_COMMENTS_LANGUAGE=Mixed (English code, Chinese explanations)
+
+# 特殊说明
+# 请未来的Claude实例注意：
+# 1. 用户希望使用中文进行所有交流
+# 2. 这是一个工业级应用，需要专业准确的术语
+# 3. 代码质量要求高，需要遵循Qt和C++最佳实践
+# 4. 项目涉及硬件控制，安全性极其重要
